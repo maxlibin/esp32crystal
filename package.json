@@ -1,0 +1,8 @@
+{
+  "name": "crystal",
+  "private": true,
+  "description": "Codex CLI used by Crystal's terminal chat app",
+  "dependencies": {
+    "@openai/codex": "0.164.0"
+  }
+}

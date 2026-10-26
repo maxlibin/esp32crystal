@@ -1,0 +1,9 @@
+build/
+sdkconfig
+sdkconfig.old
+managed_components/
+node_modules/
+.venv/
+.superpowers/
+__pycache__/
+.DS_Store
